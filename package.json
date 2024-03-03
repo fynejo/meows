@@ -1,0 +1,23 @@
+{
+  "name": "meows-mm",
+  "version": "1.0.0",
+  "description": "meows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fynejo/meows.git"
+  },
+  "dependencies": {
+    "kits-bee": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fynejo/meows/issues"
+  },
+  "homepage": "https://github.com/fynejo/meows#readme"
+}
