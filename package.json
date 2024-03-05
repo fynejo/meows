@@ -1,6 +1,6 @@
 {
   "name": "meows-mm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "meows",
   "main": "index.js",
   "scripts": {
